@@ -55,3 +55,9 @@ All dependencies are up to date
 ```
 
 </details>
+
+<details>
+    <summary>mix run --no-halt</summary>
+
+    Open `http://localhost:4000/`
+</details>
