@@ -175,3 +175,12 @@ You can detach the terminal anytime without stopping the deployment
 ```
 
 </details>
+
+<details>
+    <summary>flyctl open</summary>
+
+```
+Opening http://hello-elixir.fly.dev/
+```
+
+</details>
