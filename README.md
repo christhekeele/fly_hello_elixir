@@ -7,7 +7,7 @@ Commands
 --------
 
 <details>
-    <summary>mix new hello_elixir</summary>
+    <summary>mix new hello_elixir --sup</summary>
 
 ```
 * creating README.md
@@ -16,6 +16,7 @@ Commands
 * creating mix.exs
 * creating lib
 * creating lib/hello_elixir.ex
+* creating lib/hello_elixir/application.ex
 * creating test
 * creating test/test_helper.exs
 * creating test/hello_elixir_test.exs
