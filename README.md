@@ -35,3 +35,23 @@ Run "mix help" for more commands.
 <details>
     <summary>cd hello_elixir</summary>
 </details>
+
+<details>
+    <summary>mix deps.get</summary>
+
+```
+Resolving Hex dependencies...
+Dependency resolution completed:
+Unchanged:
+  cowboy 1.1.2
+  cowlib 1.0.2
+  mime 1.5.0
+  plug 1.11.1
+  plug_cowboy 1.0.0
+  plug_crypto 1.2.1
+  ranch 1.3.2
+  telemetry 0.4.2
+All dependencies are up to date
+```
+
+</details>
