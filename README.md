@@ -67,3 +67,28 @@ All dependencies are up to date
 
     Open `http://localhost:4000/`
 </details>
+
+<details>
+    <summary>flyctl init</summary>
+
+```
+? App Name (leave blank to use an auto-generated name) hello-elixir
+
+Automatically selected personal organization:
+
+? Select builder: None
+    (Do not set a builder)
+? Select Internal Port: 4000
+New app created
+  Name         = hello-elixir
+  Organization = personal
+  Version      = 0
+  Status       =
+  Hostname     = <empty>
+
+App will initially deploy to sea (Seattle, Washington (US)) region
+
+Wrote config file fly.toml
+```
+
+</details>
