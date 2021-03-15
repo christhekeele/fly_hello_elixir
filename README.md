@@ -61,3 +61,9 @@ All dependencies are up to date
 
     Open `http://localhost:4000/`
 </details>
+
+<details>
+    <summary>docker-compose up</summary>
+
+    Open `http://localhost:4000/`
+</details>
